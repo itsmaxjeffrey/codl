@@ -1,0 +1,724 @@
+{
+   "Aria2Text": {
+      "message": "Формат Aria2"
+   },
+   "DownText": {
+      "message": "Скачать как текстовый файл"
+   },
+   "Refresh": {
+      "message": "Сброс"
+   },
+   "ResetExt": {
+      "message": "Сброс"
+   },
+   "Resolution": {
+      "message": "Разрешение"
+   },
+   "SaveExt": {
+      "message": "Сохранить все настройки"
+   },
+   "TAudio": {
+      "message": "Аудио"
+   },
+   "TCloseBtn": {
+      "message": "Закрыть"
+   },
+   "TContinueRec": {
+      "message": "Продолжить режим записи?"
+   },
+   "TErrorNoAudio": {
+      "message": "Извините, аудио не найдено."
+   },
+   "TErrorNoVideo": {
+      "message": "Извините, видео не найдено. Возможно, вы можете попробовать режим записи."
+   },
+   "TRecording": {
+      "message": "Запись."
+   },
+   "TbadgetTitle": {
+      "message": "Найдено $MEDIA_COUNT$ медиа файлов.",
+      "placeholders": {
+         "MEDIA_COUNT": {
+            "content": "$1"
+         }
+      }
+   },
+   "TbgIsDownloading": {
+      "message": "Медиа с этой страницы загружается."
+   },
+   "TbgTryLater": {
+      "message": "Извините, загрузка временно недоступна. Пожалуйста, попробуйте позже или после обновления страницы."
+   },
+   "Tcopy": {
+      "message": "Скопировать URL"
+   },
+   "TcopySelected": {
+      "message": "Скопировать выбранное"
+   },
+   "TcustomAdd": {
+      "message": "Добавить больше"
+   },
+   "TcustomAddMine": {
+      "message": "Добавить больше"
+   },
+   "TcustomBlockedDomainEmpty": {
+      "message": "Имя домена не может быть пустым"
+   },
+   "TcustomBlockedDomainExample": {
+      "message": "Формат имени домена должен быть таким:"
+   },
+   "TcustomBlockedDomainPlaceholder": {
+      "message": "Имя домена будет заблокировано"
+   },
+   "TcustomBlockedDomains": {
+      "message": "Заблокированные домены"
+   },
+   "TcustomBlockedDomainsDec": {
+      "message": "Файлы с следующих доменов не будут отображаться в списке загрузок."
+   },
+   "TcustomComfirmRest": {
+      "message": "Подтвердите сброс? Вы потеряете все предыдущие настройки после сброса!"
+   },
+   "TcustomCtDec": {
+      "message": "Некоторые медиа файлы используют необычные расширения и должны определяться по MIME. \u003Ca href=\"https://developer.mozilla.org/ru/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Complete_list_of_MIME_types\" target=\"_blank\">Список MIME типов.\u003C/a> Поддерживает подстановочные знаки, приоритетно сопоставляя расширения."
+   },
+   "TcustomCtMIME": {
+      "message": "MIME"
+   },
+   "TcustomDebug": {
+      "message": "Режим отладки"
+   },
+   "TcustomExt": {
+      "message": "Пользовательское расширение файлов"
+   },
+   "TcustomExtDec": {
+      "message": "Введите расширение без \".\". \u003Cbr/>Файлы больше этого размера будут захвачены. \u003Cbr/>Введите 0, чтобы захватить независимо от размера файла.\u003Cbr/>Если вы хотите игнорировать определенный тип файла, снимите отметку \"Включено\".\u003Cbr/>Некоторые не медиа файлы могут не быть захвачены."
+   },
+   "TcustomExtName": {
+      "message": "Расширение файла"
+   },
+   "TcustomExtNameEmpty": {
+      "message": "Расширение файла не может быть пустым."
+   },
+   "TcustomExtSize": {
+      "message": "Ограничение размера"
+   },
+   "TcustomMaxDisplayCount": {
+      "message": "Сколько файлов отображается на всплывающей странице"
+   },
+   "TcustomMineEmpty": {
+      "message": "MIME не может быть пустым."
+   },
+   "TcustomOt": {
+      "message": "Другие"
+   },
+   "TcustomOtFilename": {
+      "message": "Использовать заголовок страницы в качестве имени файла при загрузке."
+   },
+   "TcustomOtIgnore": {
+      "message": "Игнорировать параметры (избежать дублирования)"
+   },
+   "TcustomOtIgnoreDec": {
+      "message": "Некоторые медиа файлы имеют параметры. Установите отметку игнорировать параметры для фильтрации дублированных данных."
+   },
+   "TcustomOtReg": {
+      "message": "Регулярное выражение для соответствия параметрам видео. Если вы не понимаете RE, не трогайте, вы можете использовать сброс для восстановления."
+   },
+   "TcustomSaved": {
+      "message": "Сохранено"
+   },
+   "TcustomSetting": {
+      "message": "Настройки CocoCut"
+   },
+   "TcustomShowCountOnIcon": {
+      "message": "Отображать количество файлов на значке расширения CocoCut"
+   },
+   "TcustomTypeIgn": {
+      "message": "Если вы хотите игнорировать определенный тип файла, снимите отметку \"Включено\"."
+   },
+   "TdlmDownload": {
+      "message": "Открыть новую страницу управления загрузками для загрузки с многопоточностью (и установить это как метод загрузки по умолчанию)."
+   },
+   "Tdone": {
+      "message": "Готово."
+   },
+   "TdownSelected": {
+      "message": "Скачать выбранное"
+   },
+   "Tdownload": {
+      "message": "Скачать"
+   },
+   "TdownloadPlus": {
+      "message": "Расширенный режим загрузки"
+   },
+   "TerrFailDownload": {
+      "message": "Не удалось скачать файл."
+   },
+   "TerrItself": {
+      "message": "Ошибка."
+   },
+   "TerrNoAvailableDownload": {
+      "message": "Извините, мы не можем найти доступное видео для загрузки."
+   },
+   "TerrNoIndexFile": {
+      "message": "Извините, мы не можем скачать индексный файл для видеофайлов."
+   },
+   "TerrTryToRec": {
+      "message": "Возможно, вы можете попробовать \u003Ca href=\"javascript:void(0)\" id=\"errTryToRec\">Режим записи\u003C/a>?"
+   },
+   "Text": {
+      "message": "Текстовый формат"
+   },
+   "ThlsCloseVideoPageRetry": {
+      "message": "Возможно, нужно закрыть веб-страницу видео, перезапустить и повторить."
+   },
+   "ThlsGoToMergeAV": {
+      "message": "Затем перейдите к объединению аудио и видео:"
+   },
+   "ThlsLiveDurationLimit": {
+      "message": "Упс! Вы превысили максимальное время. \u003Ca class='btn btn-primary up2pro-btn'>Обновите до Pro\u003C/a>, чтобы наслаждаться неограниченным временем и разблокировать больше удивительных функций!"
+   },
+   "ThlsNeedSelectAudio": {
+      "message": "Если в видео нет звука, пожалуйста, скачайте:"
+   },
+   "ThlsSegmentsDlFaile": {
+      "message": "Не удалось скачать $failedCount$ сегментов, нажмите, чтобы повторить",
+      "placeholders": {
+         "failedCount": {
+            "content": "$1",
+            "example": "8"
+         }
+      }
+   },
+   "Tloading": {
+      "message": "Загрузка."
+   },
+   "Tm3Des1": {
+      "message": "Если не удается скачать распарсенный ts файл, попробуйте декодирование UrlDecode."
+   },
+   "Tm3Des2": {
+      "message": "Команда ffmpeg для объединения ts файлов: ffmpeg -i xxx.m3u8 -vcodec copy -acodec copy xxx.mp4"
+   },
+   "Tm3FileCount": {
+      "message": " файлов"
+   },
+   "Tm3FileUri": {
+      "message": "URL файла m3u8"
+   },
+   "Tm3Key": {
+      "message": ", медиафайл зашифрован, пожалуйста, скачайте файл ключа."
+   },
+   "Tm3Nexm3Des": {
+      "message": "В этом m3u8 файле вложен другой файл m3u8."
+   },
+   "Tm3Nextm3file": {
+      "message": "Выбрать следующий уровень файла m3u8"
+   },
+   "Tm3PageTile": {
+      "message": "Парсинг файла m3u8"
+   },
+   "Tm3u8": {
+      "message": "Скачать m3u8"
+   },
+   "Tm3u8AdvancedParser": {
+      "message": "Расширенный парсер m3u8"
+   },
+   "Tm3u8BeenSaved2HardDisk": {
+      "message": "Сохранено на жестком диске, проверьте загруженное содержимое в браузере"
+   },
+   "Tm3u8Bitrate": {
+      "message": "Битрейт"
+   },
+   "Tm3u8CanNotDealSampleAES": {
+      "message": "Ресурсы, зашифрованные SAMPLE-AES-CTR, в настоящее время не могут быть обработаны."
+   },
+   "Tm3u8CanNotModiSet": {
+      "message": "Включено преобразование, этот параметр не может быть изменен"
+   },
+   "Tm3u8CustomKey": {
+      "message": "пользовательский ключ"
+   },
+   "Tm3u8CustomKeyInputP": {
+      "message": "Пользовательский ключ в шестнадцатеричном формате или Base64 или адрес ключа"
+   },
+   "Tm3u8CustomeKeyOffsetV": {
+      "message": "пользовательский смещение"
+   },
+   "Tm3u8DataBeingConvert": {
+      "message": "Данные преобразуются в формат..."
+   },
+   "Tm3u8DataIsBeMerged": {
+      "message": "Данные объединяются..."
+   },
+   "Tm3u8DlAndMerge": {
+      "message": "Скачать и объединить"
+   },
+   "Tm3u8DlDescDlMpdQuik": {
+      "message": "Ссылка на загрузку, полученная при разборе, вскоре станет недействительной, пожалуйста, загрузите как можно скорее. Если загрузка не удалась, вернитесь на страницу воспроизведения видео и нажмите значок CocoCut, чтобы разобрать снова."
+   },
+   "Tm3u8DlExistData": {
+      "message": "Скачать существующие данные"
+   },
+   "Tm3u8DlFailedTryAgain": {
+      "message": "Ошибка загрузки... попробуйте снова"
+   },
+   "Tm3u8DlRange": {
+      "message": "Диапазон загрузки"
+   },
+   "Tm3u8DlRec": {
+      "message": "Загрузить запись"
+   },
+   "Tm3u8DlThreads": {
+      "message": "Количество потоков загрузки"
+   },
+   "Tm3u8Downloaded": {
+      "message": "Загружено:"
+   },
+   "Tm3u8EncodedDoc": {
+      "message": "закодированные документы"
+   },
+   "Tm3u8Encrypted": {
+      "message": "Зашифровано"
+   },
+   "Tm3u8ErrInParseM3u8": {
+      "message": "Ошибка при парсинге или воспроизведении файла m3u8"
+   },
+   "Tm3u8FailedDecrypt": {
+      "message": "Ошибка расшифровки."
+   },
+   "Tm3u8FileLoading": {
+      "message": "Файл загружается..."
+   },
+   "Tm3u8FormatErrCanclemp4": {
+      "message": "Ошибка преобразования формата, пожалуйста, отмените преобразование mp4, загрузите снова."
+   },
+   "Tm3u8HttpNotAllow": {
+      "message": "Эта функция требует https"
+   },
+   "Tm3u8ImcompleteData": {
+      "message": "Неполные данные... осталось незагруженное"
+   },
+   "Tm3u8IncorrKey": {
+      "message": "Неправильный ключ"
+   },
+   "Tm3u8InitFrag": {
+      "message": "Инициализационный фрагмент"
+   },
+   "Tm3u8KeyDlFail": {
+      "message": "Ошибка загрузки ключа"
+   },
+   "Tm3u8KeyErr": {
+      "message": "Неправильный файл:"
+   },
+   "Tm3u8LiveStream": {
+      "message": "Прямой эфир"
+   },
+   "Tm3u8M3u8FileAddr": {
+      "message": "Адрес файла m3u8"
+   },
+   "Tm3u8MergeCheckStEnd": {
+      "message": "Начальный номер последовательности не может быть больше конечного"
+   },
+   "Tm3u8MergeCompleteWait": {
+      "message": "Объединение завершено, ожидание завершения загрузки браузером... (Обратите внимание на процесс загрузки браузера)"
+   },
+   "Tm3u8MergeSeqExceed": {
+      "message": "Номер последовательности не может превышать"
+   },
+   "Tm3u8NestMultSubs": {
+      "message": "Вложенные несколько субтитров"
+   },
+   "Tm3u8NestMultSubsDesc": {
+      "message": "Несколько субтитров вложены в файл m3u8"
+   },
+   "Tm3u8NestMultipleaudio": {
+      "message": "Вложенные несколько аудио"
+   },
+   "Tm3u8NestMultipleaudioDesc": {
+      "message": "Несколько аудио вложены в файл m3u8"
+   },
+   "Tm3u8Nestedfiles": {
+      "message": "Вложенные файлы"
+   },
+   "Tm3u8NestedfilesDesc": {
+      "message": "Несколько m3u8 файлов вложены в этот m3u8 файл"
+   },
+   "Tm3u8NoAudio": {
+      "message": "Нет аудио"
+   },
+   "Tm3u8NoSupport": {
+      "message": "Не поддерживается"
+   },
+   "Tm3u8NoVideo": {
+      "message": "Нет видео"
+   },
+   "Tm3u8OpenDlDir": {
+      "message": "Открыть каталог загрузок"
+   },
+   "Tm3u8PlayList": {
+      "message": "Список воспроизведения m3u8"
+   },
+   "Tm3u8PushingStream": {
+      "message": "Ведется поток, загрузка остановится после закрытия..."
+   },
+   "Tm3u8RangeEnd": {
+      "message": "Конец диапазона"
+   },
+   "Tm3u8RangeStart": {
+      "message": "Начало диапазона"
+   },
+   "Tm3u8ReDlErr": {
+      "message": "Повторить при ошибке загрузки"
+   },
+   "Tm3u8ReDling": {
+      "message": "Перезагрузка..."
+   },
+   "Tm3u8RecLive": {
+      "message": "Записать живое видео"
+   },
+   "Tm3u8RecLiveVideo": {
+      "message": "Записать живое видео"
+   },
+   "Tm3u8RecordingTime": {
+      "message": "Время записи:"
+   },
+   "Tm3u8Redownload": {
+      "message": "Перезагрузить"
+   },
+   "Tm3u8RefererAdd": {
+      "message": "Добавить"
+   },
+   "Tm3u8RefererDelete": {
+      "message": "Удалить"
+   },
+   "Tm3u8RefererRetry": {
+      "message": "затем попробуйте снова"
+   },
+   "Tm3u8ReqFfmpegTrans": {
+      "message": "Требуется трансформация ffmpeg"
+   },
+   "Tm3u8Resolution": {
+      "message": "Разрешение"
+   },
+   "Tm3u8RetryDlErr": {
+      "message": "Повторить все неудачные элементы"
+   },
+   "Tm3u8SaveAs": {
+      "message": "Сохранить как"
+   },
+   "Tm3u8SaveAsMp4": {
+      "message": "Сохранить в формате mp4"
+   },
+   "Tm3u8SaveCusName": {
+      "message": "Сохранить с пользовательским именем файла"
+   },
+   "Tm3u8SaveOnlyAudio": {
+      "message": "Сохранить только в аудиоформате"
+   },
+   "Tm3u8StopDl": {
+      "message": "Остановить загрузку"
+   },
+   "Tm3u8StopDlStream": {
+      "message": "Остановить загрузку потока"
+   },
+   "Tm3u8StopRec": {
+      "message": "Остановить запись"
+   },
+   "Tm3u8StreamSave": {
+      "message": "Сохранить на жесткий диск во время загрузки"
+   },
+   "Tm3u8TotalFragCount": {
+      "message": "Общее количество фрагментов файла:"
+   },
+   "Tm3u8TotalTime": {
+      "message": "Общее время:"
+   },
+   "Tm3u8Upload": {
+      "message": "Или, загрузить"
+   },
+   "Tm3u8VideoResolution": {
+      "message": "Разрешение"
+   },
+   "Tm3u8VideoTime": {
+      "message": "Длительность"
+   },
+   "Tm3u8WaitLiveData": {
+      "message": "Ожидание живых данных..."
+   },
+   "Tm3u8WrongKeyType": {
+      "message": "Неправильный тип ключа"
+   },
+   "Tm3u8downloadOptions": {
+      "message": "Опции загрузки"
+   },
+   "Tm3u8skipDecryption": {
+      "message": "Пропустить расшифровку"
+   },
+   "Tm3u8stopDl": {
+      "message": "Остановить загрузку"
+   },
+   "TmediaCNormalspeed": {
+      "message": "Обычная скорость"
+   },
+   "TmediaCSelWebpage": {
+      "message": "Выбрать веб-страницу"
+   },
+   "TmediaCfullscreen": {
+      "message": "Полный экран"
+   },
+   "TmediaCpause": {
+      "message": "Пауза"
+   },
+   "TmediaCpip": {
+      "message": "Картинка в картинке"
+   },
+   "TmediaCpipQuit": {
+      "message": "Выйти из режима картина в картинке"
+   },
+   "TmediaCplay": {
+      "message": "Воспроизвести"
+   },
+   "TmediaCplayTime": {
+      "message": "Время воспроизведения"
+   },
+   "TmediaCscreenshot": {
+      "message": "Скриншот"
+   },
+   "TmediaCselMedia": {
+      "message": "Выбрать видео"
+   },
+   "TmediaCspeed": {
+      "message": "Играть с вашей скоростью"
+   },
+   "TmediaCvolumn": {
+      "message": "Громкость"
+   },
+   "TmediaLoop": {
+      "message": "Цикл"
+   },
+   "TmedianCMuted": {
+      "message": "Без звука"
+   },
+   "TmpdDrmProtect": {
+      "message": "Медиа защищено DRM и может не подлежать загрузке и воспроизведению. Нет функции анализа и расшифровки шифрования, пожалуйста, скопируйте адрес файла mpd и используйте сторонний инструмент для загрузки."
+   },
+   "TmpdInitSeg": {
+      "message": "инициализационный сегмент"
+   },
+   "TmpdMPdFileAddr": {
+      "message": "адрес файла"
+   },
+   "TmpdParser": {
+      "message": "Парсер"
+   },
+   "TmpdSelectAudio": {
+      "message": "Выбрать аудио"
+   },
+   "TmpdSelectVideo": {
+      "message": "Выбрать видео"
+   },
+   "TmpdTotalFilesCount": {
+      "message": "Общее количество файлов"
+   },
+   "TmpdVideo": {
+      "message": "Видео"
+   },
+   "TnoResource": {
+      "message": "Файл не найден!"
+   },
+   "TopenAdvanceModalDesc": {
+      "message": "Рекомендуется использовать этот режим при неудачной загрузке, неправильном загруженном файле или размере файла более 2 ГБ."
+   },
+   "TopenAdvanceModeBtn": {
+      "message": "Открыть расширенный режим загрузки"
+   },
+   "Tplay": {
+      "message": "Играть"
+   },
+   "TpopBlockDomain": {
+      "message": "Блокировать файлы с этого домена в списке загрузок"
+   },
+   "TpopBlockedDomainNotify": {
+      "message": "Файлы с нижеуказанного домена не будут отображаться в списке загрузок."
+   },
+   "TpopDlDash": {
+      "message": "Скачать DASH/MPD"
+   },
+   "TpopGetProBtn": {
+      "message": "Получить продвинутые функции, такие как \"ускоренная загрузка\"."
+   },
+   "TpopHomePageBtn": {
+      "message": "Главная страница CocoCut"
+   },
+   "TpopM3u8Des": {
+      "message": "Потоковое видео"
+   },
+   "TpopNeedPlayit": {
+      "message": "Вам может понадобиться сначала воспроизвести видео, чтобы помочь CocoCut его найти."
+   },
+   "TpopNeedPlayit2": {
+      "message": "Некоторые видео нужно сначала воспроизвести, прежде чем их можно будет скачать. Или нажмите кнопку \"Принудительная загрузка\"."
+   },
+   "TpopNotSuppWhy": {
+      "message": "Нажмите на меня, чтобы узнать причину и возможные решения."
+   },
+   "TpopNotSupport": {
+      "message": "Извините, но мы не поддерживаем эту веб-страницу."
+   },
+   "TpopOptionBtn": {
+      "message": "Настройки загрузки"
+   },
+   "TpopQuestionBtn": {
+      "message": "Обратная связь и FAQ"
+   },
+   "TpopRealDlAddr": {
+      "message": "Нажмите на меня, чтобы стать Pro-участником и получить ссылку на загрузку."
+   },
+   "TpopTab2Desc": {
+      "message": "Для видео и аудио, не соответствующих веб-стандартам, их можно обнаружить с помощью других методов, таких как \"Эмулировать мобильный телефон\", \"Глубокий поиск\" и т.д."
+   },
+   "TpopTooManyFiles": {
+      "message": "Слишком много файлов для отображения. Вы можете установить, сколько файлов отображать"
+   },
+   "TpopYTDLdesc": {
+      "message": "Если вы на странице просмотра YouTube, попробуйте скачать видео с YouTube."
+   },
+   "TpopYTDLdlIt": {
+      "message": "Попробуйте скачать видео с YouTube"
+   },
+   "TpopdeepSearch": {
+      "message": "Глубокий поиск"
+   },
+   "TpopdeepSearchOff": {
+      "message": "Выключить глубокий поиск"
+   },
+   "TpopdeepSearch_TT": {
+      "message": "Глубокий поиск нестандартных медиафайлов, значительно увеличивает вероятность обнаружения."
+   },
+   "TpopemulateCellphone": {
+      "message": "Эмулировать мобильный телефон"
+   },
+   "TpopemulateCellphone_TT": {
+      "message": "Некоторые веб-сайты предоставляют медиафайлы, соответствующие стандартам веба для мобильных устройств."
+   },
+   "TpoprecordScreen": {
+      "message": "Запись экрана"
+   },
+   "TpoprecordScreenOff": {
+      "message": "Выключить запись экрана"
+   },
+   "TpoprecordScreen_TT": {
+      "message": "Прямая запись экрана, похожая на видеокамеру, захватывающую экран."
+   },
+   "TpopupTab1": {
+      "message": "Список загрузок"
+   },
+   "TpopupTab2": {
+      "message": "Профессиональные функции"
+   },
+   "TpopupTab3": {
+      "message": "Управление видео"
+   },
+   "TrevSelected": {
+      "message": "Инвертировать выбор"
+   },
+   "TryHlsDesc": {
+      "message": "CocoCut попытается скачать или записать видео. Если текущее видео на веб-странице не обнаруживается или загрузка затруднена, вы можете нажать на меня, чтобы попробовать."
+   },
+   "TselectAll": {
+      "message": "Выбрать все"
+   },
+   "TssCloseRecArea": {
+      "message": "Выключить запись экрана"
+   },
+   "TssDrapRecArea": {
+      "message": "Перемещение области записи"
+   },
+   "TssNotAllowShare": {
+      "message": "Текущая страница не поддерживает совместное использование экрана"
+   },
+   "TssStartRec": {
+      "message": "Начать запись"
+   },
+   "TssStartRecord": {
+      "message": "Начать запись"
+   },
+   "TssStopRec": {
+      "message": "Остановить запись"
+   },
+   "TswichtRecMode": {
+      "message": "Переключиться на режим записи видео"
+   },
+   "TtempntcInfoCopied": {
+      "message": "Скопировано!"
+   },
+   "TtoFaq": {
+      "message": "Перейдите в FAQ, чтобы узнать, можно ли решить проблему."
+   },
+   "TtryHls": {
+      "message": "Принудительная загрузка"
+   },
+   "TtryHlsLabel": {
+      "message": "Проблемы с загрузкой или файл не найден?"
+   },
+   "TtryPlay": {
+      "message": "Попробовать воспроизведение"
+   },
+   "TtryRecMode": {
+      "message": "Не удается найти видео для загрузки, возможно, вы можете попробовать режим записи?"
+   },
+   "UrlDecode": {
+      "message": "Декодирование UrlDecode"
+   },
+   "WgetText": {
+      "message": "Формат Wget"
+   },
+   "customNavIEbtns": {
+      "message": "Импорт/Экспорт настроек"
+   },
+   "exportSettingBtn": {
+      "message": "Экспортировать в локальный файл"
+   },
+   "extDescription": {
+      "message": "Chrome лучший видеозагрузчик и загрузчик музыки, который позволяет скачивать видео и музыку онлайн. Бесплатно, безопасно и просто."
+   },
+   "extName": {
+      "message": "видеозагрузчик - CocoCut"
+   },
+   "importSettingBtn": {
+      "message": "Импортировать из локального файла"
+   },
+   "importSettingsCancelBtn": {
+      "message": "Отмена"
+   },
+   "importSettingsFilelabel": {
+      "message": "Выберите файл настроек CocoCut..."
+   },
+   "importSettingsFilename": {
+      "message": "Файл не выбран"
+   },
+   "importSettingsOkBtn": {
+      "message": "ОК"
+   },
+   "importSettingsWarning": {
+      "message": "Внимание: это заменит все текущие настройки."
+   },
+   "modalCancelBtn": {
+      "message": "Отмена"
+   },
+   "modalOkBtn": {
+      "message": "ОК"
+   },
+   "popemulateCellphoneOff": {
+      "message": "Выключить эмуляцию мобильного телефона"
+   },
+   "subtitle": {
+      "message": "Субтитры"
+   },
+   "videoIndexTips": {
+      "message": "Не выбрано управляемое видео"
+   },
+   "videoTabTips": {
+      "message": "Веб-страницы с незамеченными видео"
+   }
+}

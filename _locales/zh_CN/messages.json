@@ -1,0 +1,724 @@
+{
+   "Aria2Text": {
+      "message": "aria2格式"
+   },
+   "DownText": {
+      "message": "下载文本格式"
+   },
+   "Refresh": {
+      "message": "还原"
+   },
+   "ResetExt": {
+      "message": "重置设置"
+   },
+   "Resolution": {
+      "message": "清晰度"
+   },
+   "SaveExt": {
+      "message": "保存全部设置"
+   },
+   "TAudio": {
+      "message": "音频"
+   },
+   "TCloseBtn": {
+      "message": "关闭"
+   },
+   "TContinueRec": {
+      "message": "继续录制模式？"
+   },
+   "TErrorNoAudio": {
+      "message": "对不起，没有发现可供下载的音频."
+   },
+   "TErrorNoVideo": {
+      "message": "对不起，没有找到可供下载的视频.也许您可以尝试下录制模式"
+   },
+   "TRecording": {
+      "message": "录制中."
+   },
+   "TbadgetTitle": {
+      "message": "抓到$MEDIA_COUNT$条资源",
+      "placeholders": {
+         "MEDIA_COUNT": {
+            "content": "$1"
+         }
+      }
+   },
+   "TbgIsDownloading": {
+      "message": "该页面的视频、音乐正在下载中。"
+   },
+   "TbgTryLater": {
+      "message": "对不起，暂时无法下载，请稍后重试或刷新页面后重试。"
+   },
+   "Tcopy": {
+      "message": "复制网址"
+   },
+   "TcopySelected": {
+      "message": "复制所选"
+   },
+   "TcustomAdd": {
+      "message": "新增一个"
+   },
+   "TcustomAddMine": {
+      "message": "新增一个"
+   },
+   "TcustomBlockedDomainEmpty": {
+      "message": "要被屏蔽的域名不能为空"
+   },
+   "TcustomBlockedDomainExample": {
+      "message": "域名的格式应该像这样:"
+   },
+   "TcustomBlockedDomainPlaceholder": {
+      "message": "要被屏蔽的域名"
+   },
+   "TcustomBlockedDomains": {
+      "message": "屏蔽的域名"
+   },
+   "TcustomBlockedDomainsDec": {
+      "message": "来自于如下域名的文件将不会出现在下载列表:"
+   },
+   "TcustomComfirmRest": {
+      "message": "确认重置吗？重置后您将丢失所有之前的设置！"
+   },
+   "TcustomCtDec": {
+      "message": "一些媒体文件使用非正常扩展名，需要通过MIME判断。\u003Ca href=\"https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Complete_list_of_MIME_types\" target=\"_blank\">常用格式对照表\u003C/a>\u003Cbr/>支持通配符，优先匹配扩展名"
+   },
+   "TcustomCtMIME": {
+      "message": "MIME类型"
+   },
+   "TcustomDebug": {
+      "message": "调试模式"
+   },
+   "TcustomExt": {
+      "message": "自定义文件扩展名抓取"
+   },
+   "TcustomExtDec": {
+      "message": "填写不带\".\"的扩展名。\u003Cbr/>大于此大小的文件才会被抓取，填0则无论文件大小都会抓取。\u003Cbr/>若希望忽略某一类型文件，取消勾选“On”。\u003Cbr/>部分非媒体资源文件不会被抓取。"
+   },
+   "TcustomExtName": {
+      "message": "扩展名"
+   },
+   "TcustomExtNameEmpty": {
+      "message": "扩展名不能为空"
+   },
+   "TcustomExtSize": {
+      "message": "大小限制"
+   },
+   "TcustomMaxDisplayCount": {
+      "message": "点击CocoCut扩展图标弹出的页面上，最多显示多少个文件"
+   },
+   "TcustomMineEmpty": {
+      "message": "MIME类型不能为空"
+   },
+   "TcustomOt": {
+      "message": "其他选项"
+   },
+   "TcustomOtFilename": {
+      "message": "下载时使用网页标题做文件名"
+   },
+   "TcustomOtIgnore": {
+      "message": "忽略参数(避免重复)"
+   },
+   "TcustomOtIgnoreDec": {
+      "message": "某些网站媒体文件自带参数。勾选忽略参数过滤重复数据。"
+   },
+   "TcustomOtReg": {
+      "message": "匹配媒体文件参数的正则，用于去除参数。不了解正则请勿动，可使用重置还原。"
+   },
+   "TcustomSaved": {
+      "message": "已保存"
+   },
+   "TcustomSetting": {
+      "message": "CocoCut设置"
+   },
+   "TcustomShowCountOnIcon": {
+      "message": "在CocoCut扩展图标上显示文件数"
+   },
+   "TcustomTypeIgn": {
+      "message": "若希望忽略某一类型文件，取消勾选“On”。"
+   },
+   "TdlmDownload": {
+      "message": "打开新下载管理页面用多线程下载(并设置为默认下载方式）。"
+   },
+   "Tdone": {
+      "message": "完成."
+   },
+   "TdownSelected": {
+      "message": "下载所选"
+   },
+   "Tdownload": {
+      "message": "下载"
+   },
+   "TdownloadPlus": {
+      "message": "高级下载模式"
+   },
+   "TerrFailDownload": {
+      "message": "文件下载失败."
+   },
+   "TerrItself": {
+      "message": "出错了."
+   },
+   "TerrNoAvailableDownload": {
+      "message": "对不起，找不到任何可供下载的视频."
+   },
+   "TerrNoIndexFile": {
+      "message": "对不起，无法下载视频文件的索引."
+   },
+   "TerrTryToRec": {
+      "message": "也许您可以尝试下\u003Ca href=\"javascript:void(0)\" id=\"errTryToRec\">录制模式\u003C/a>?"
+   },
+   "Text": {
+      "message": "文本格式"
+   },
+   "ThlsCloseVideoPageRetry": {
+      "message": "可能需要关闭视频网页，重新打开并重试。"
+   },
+   "ThlsGoToMergeAV": {
+      "message": "然后前往合并音频和视频："
+   },
+   "ThlsLiveDurationLimit": {
+      "message": "哎呀！您已超过最长时长限制。 \u003Ca class='btn btn-primary up2pro-btn'>升级到 Pro\u003C/a> 即可享受无限时长并解锁更多精彩功能！"
+   },
+   "ThlsNeedSelectAudio": {
+      "message": "如果视频中没有声音，请下载："
+   },
+   "ThlsSegmentsDlFaile": {
+      "message": "下载失败，$failedCount$个片段未能下载，点击重试",
+      "placeholders": {
+         "failedCount": {
+            "content": "$1",
+            "example": "8"
+         }
+      }
+   },
+   "Tloading": {
+      "message": "载入中."
+   },
+   "Tm3Des1": {
+      "message": "如遇到解析出的ts文件无法下载，请尝试UrlDecode解码"
+   },
+   "Tm3Des2": {
+      "message": "ffmpeg合并ts命令: ffmpeg -i xxx.m3u8 -vcodec copy -acodec copy xxx.mp4"
+   },
+   "Tm3FileCount": {
+      "message": "个文件"
+   },
+   "Tm3FileUri": {
+      "message": "m3u8文件网址"
+   },
+   "Tm3Key": {
+      "message": "，该媒体已加密，请注意下载key文件"
+   },
+   "Tm3Nexm3Des": {
+      "message": "该m3u8文件中嵌套另外m3u8文件"
+   },
+   "Tm3Nextm3file": {
+      "message": "选择下一级m3u8文件"
+   },
+   "Tm3PageTile": {
+      "message": "m3u8解析"
+   },
+   "Tm3u8": {
+      "message": "下载m3u8"
+   },
+   "Tm3u8AdvancedParser": {
+      "message": "高级m3u8解析器"
+   },
+   "Tm3u8BeenSaved2HardDisk": {
+      "message": "已保存到硬盘，请在浏览器中查看下载的内容"
+   },
+   "Tm3u8Bitrate": {
+      "message": "比特率"
+   },
+   "Tm3u8CanNotDealSampleAES": {
+      "message": "目前无法处理使用SAMPLE-AES-CTR加密的资源。"
+   },
+   "Tm3u8CanNotModiSet": {
+      "message": "启用转码，无法更改此设置"
+   },
+   "Tm3u8CustomKey": {
+      "message": "自定义密钥"
+   },
+   "Tm3u8CustomKeyInputP": {
+      "message": "自定义密钥（十六进制或Base64编码或密钥地址）"
+   },
+   "Tm3u8CustomeKeyOffsetV": {
+      "message": "自定义偏移量"
+   },
+   "Tm3u8DataBeingConvert": {
+      "message": "数据正在转换为格式..."
+   },
+   "Tm3u8DataIsBeMerged": {
+      "message": "数据正在合并中..."
+   },
+   "Tm3u8DlAndMerge": {
+      "message": "下载并合并"
+   },
+   "Tm3u8DlDescDlMpdQuik": {
+      "message": "解析的下载链接即将失效，请尽快下载。如果下载失败，请返回视频播放页面，点击CocoCut图标重新解析。"
+   },
+   "Tm3u8DlExistData": {
+      "message": "下载已存在的数据"
+   },
+   "Tm3u8DlFailedTryAgain": {
+      "message": "下载失败...请重试"
+   },
+   "Tm3u8DlRange": {
+      "message": "下载范围"
+   },
+   "Tm3u8DlRec": {
+      "message": "下载录制"
+   },
+   "Tm3u8DlThreads": {
+      "message": "下载线程数"
+   },
+   "Tm3u8Downloaded": {
+      "message": "已下载："
+   },
+   "Tm3u8EncodedDoc": {
+      "message": "编码文档"
+   },
+   "Tm3u8Encrypted": {
+      "message": "已加密"
+   },
+   "Tm3u8ErrInParseM3u8": {
+      "message": "解析或播放m3u8文件时出错"
+   },
+   "Tm3u8FailedDecrypt": {
+      "message": "解密失败"
+   },
+   "Tm3u8FileLoading": {
+      "message": "文件正在加载中..."
+   },
+   "Tm3u8FormatErrCanclemp4": {
+      "message": "格式转换错误，请取消mp4转换，重新下载。"
+   },
+   "Tm3u8HttpNotAllow": {
+      "message": "此功能需要使用https"
+   },
+   "Tm3u8ImcompleteData": {
+      "message": "数据不完整...剩余未下载的部分"
+   },
+   "Tm3u8IncorrKey": {
+      "message": "密钥不正确"
+   },
+   "Tm3u8InitFrag": {
+      "message": "初始化片段"
+   },
+   "Tm3u8KeyDlFail": {
+      "message": "密钥下载失败"
+   },
+   "Tm3u8KeyErr": {
+      "message": "文件不正确："
+   },
+   "Tm3u8LiveStream": {
+      "message": "直播流"
+   },
+   "Tm3u8M3u8FileAddr": {
+      "message": "m3u8文件地址"
+   },
+   "Tm3u8MergeCheckStEnd": {
+      "message": "起始序号不能大于结束序号"
+   },
+   "Tm3u8MergeCompleteWait": {
+      "message": "合并完成，等待浏览器完成下载...（请注意浏览器下载过程）"
+   },
+   "Tm3u8MergeSeqExceed": {
+      "message": "序号不能超过"
+   },
+   "Tm3u8NestMultSubs": {
+      "message": "嵌套多个字幕"
+   },
+   "Tm3u8NestMultSubsDesc": {
+      "message": "一个m3u8文件中嵌套了多个字幕"
+   },
+   "Tm3u8NestMultipleaudio": {
+      "message": "嵌套多个音频"
+   },
+   "Tm3u8NestMultipleaudioDesc": {
+      "message": "一个m3u8文件中嵌套了多个音频"
+   },
+   "Tm3u8Nestedfiles": {
+      "message": "嵌套文件"
+   },
+   "Tm3u8NestedfilesDesc": {
+      "message": "一个m3u8文件中嵌套了多个m3u8文件"
+   },
+   "Tm3u8NoAudio": {
+      "message": "无音频"
+   },
+   "Tm3u8NoSupport": {
+      "message": "不支持"
+   },
+   "Tm3u8NoVideo": {
+      "message": "无视频"
+   },
+   "Tm3u8OpenDlDir": {
+      "message": "打开下载目录"
+   },
+   "Tm3u8PlayList": {
+      "message": "m3u8播放列表"
+   },
+   "Tm3u8PushingStream": {
+      "message": "正在推流，关闭后将停止下载..."
+   },
+   "Tm3u8RangeEnd": {
+      "message": "结束位置"
+   },
+   "Tm3u8RangeStart": {
+      "message": "起始位置"
+   },
+   "Tm3u8ReDlErr": {
+      "message": "下载出错时重试"
+   },
+   "Tm3u8ReDling": {
+      "message": "正在重新下载..."
+   },
+   "Tm3u8RecLive": {
+      "message": "录制直播视频"
+   },
+   "Tm3u8RecLiveVideo": {
+      "message": "录制直播视频"
+   },
+   "Tm3u8RecordingTime": {
+      "message": "录制时间："
+   },
+   "Tm3u8Redownload": {
+      "message": "重新下载"
+   },
+   "Tm3u8RefererAdd": {
+      "message": "添加"
+   },
+   "Tm3u8RefererDelete": {
+      "message": "删除"
+   },
+   "Tm3u8RefererRetry": {
+      "message": "然后重试"
+   },
+   "Tm3u8ReqFfmpegTrans": {
+      "message": "需要使用ffmpeg进行转码"
+   },
+   "Tm3u8Resolution": {
+      "message": "分辨率"
+   },
+   "Tm3u8RetryDlErr": {
+      "message": "重试所有下载失败的项目"
+   },
+   "Tm3u8SaveAs": {
+      "message": "另存为"
+   },
+   "Tm3u8SaveAsMp4": {
+      "message": "另存为mp4格式"
+   },
+   "Tm3u8SaveCusName": {
+      "message": "使用自定义文件名保存"
+   },
+   "Tm3u8SaveOnlyAudio": {
+      "message": "仅保存音频格式"
+   },
+   "Tm3u8StopDl": {
+      "message": "停止下载"
+   },
+   "Tm3u8StopDlStream": {
+      "message": "停止下载流"
+   },
+   "Tm3u8StopRec": {
+      "message": "停止录制"
+   },
+   "Tm3u8StreamSave": {
+      "message": "下载时保存到硬盘"
+   },
+   "Tm3u8TotalFragCount": {
+      "message": "总文件片段数："
+   },
+   "Tm3u8TotalTime": {
+      "message": "总时长："
+   },
+   "Tm3u8Upload": {
+      "message": "或，上传"
+   },
+   "Tm3u8VideoResolution": {
+      "message": "分辨率"
+   },
+   "Tm3u8VideoTime": {
+      "message": "时长"
+   },
+   "Tm3u8WaitLiveData": {
+      "message": "等待直播数据..."
+   },
+   "Tm3u8WrongKeyType": {
+      "message": "错误的密钥类型"
+   },
+   "Tm3u8downloadOptions": {
+      "message": "下载选项"
+   },
+   "Tm3u8skipDecryption": {
+      "message": "跳过解密"
+   },
+   "Tm3u8stopDl": {
+      "message": "停止下载"
+   },
+   "TmediaCNormalspeed": {
+      "message": "正常速度"
+   },
+   "TmediaCSelWebpage": {
+      "message": "选择网页"
+   },
+   "TmediaCfullscreen": {
+      "message": "全屏"
+   },
+   "TmediaCpause": {
+      "message": "暂停"
+   },
+   "TmediaCpip": {
+      "message": "画中画"
+   },
+   "TmediaCpipQuit": {
+      "message": "退出画中画"
+   },
+   "TmediaCplay": {
+      "message": "播放"
+   },
+   "TmediaCplayTime": {
+      "message": "播放时间"
+   },
+   "TmediaCscreenshot": {
+      "message": "截图"
+   },
+   "TmediaCselMedia": {
+      "message": "选择视频"
+   },
+   "TmediaCspeed": {
+      "message": "调整播放速度"
+   },
+   "TmediaCvolumn": {
+      "message": "音量"
+   },
+   "TmediaLoop": {
+      "message": "循环播放"
+   },
+   "TmedianCMuted": {
+      "message": "静音"
+   },
+   "TmpdDrmProtect": {
+      "message": "该媒体受DRM保护，可能无法下载和播放。没有针对其进行加密分析和解密的功能，请复制mpd文件的地址，并使用第三方工具进行下载。"
+   },
+   "TmpdInitSeg": {
+      "message": "初始化片段"
+   },
+   "TmpdMPdFileAddr": {
+      "message": "文件地址"
+   },
+   "TmpdParser": {
+      "message": "解析器"
+   },
+   "TmpdSelectAudio": {
+      "message": "选择音频"
+   },
+   "TmpdSelectVideo": {
+      "message": "选择视频"
+   },
+   "TmpdTotalFilesCount": {
+      "message": "文件总数"
+   },
+   "TmpdVideo": {
+      "message": "视频"
+   },
+   "TnoResource": {
+      "message": "没有找到资源文件！"
+   },
+   "TopenAdvanceModalDesc": {
+      "message": "建议在下载失败、下载的文件不正确或文件大小超过2G时使用此模式。"
+   },
+   "TopenAdvanceModeBtn": {
+      "message": "打开高级下载模式"
+   },
+   "Tplay": {
+      "message": "播放"
+   },
+   "TpopBlockDomain": {
+      "message": "屏蔽所有来自此域名的文件"
+   },
+   "TpopBlockedDomainNotify": {
+      "message": "如下域名的所有文件将不再出现在下载列表。"
+   },
+   "TpopDlDash": {
+      "message": "下载DASH/MPD"
+   },
+   "TpopGetProBtn": {
+      "message": "获取“加速下载”等高级功能"
+   },
+   "TpopHomePageBtn": {
+      "message": "CocoCut主页"
+   },
+   "TpopM3u8Des": {
+      "message": "流媒体"
+   },
+   "TpopNeedPlayit": {
+      "message": "试试先开始播放要下载的视频，以帮助CocoCut找到它，或点击下方“强力下载”按钮"
+   },
+   "TpopNeedPlayit2": {
+      "message": "有些视频需要先开始播放，才能下载。"
+   },
+   "TpopNotSuppWhy": {
+      "message": "查看原因还有可能的解决办法。"
+   },
+   "TpopNotSupport": {
+      "message": "对不起，此页面视频暂时无法下载。"
+   },
+   "TpopOptionBtn": {
+      "message": "下载设置"
+   },
+   "TpopQuestionBtn": {
+      "message": "意见反馈和常见问题"
+   },
+   "TpopRealDlAddr": {
+      "message": "点击我成为Pro会员获取下载链接。"
+   },
+   "TpopTab2Desc": {
+      "message": "对于不符合Web标准的视频和音频，可以通过其他方法进行检测，例如\"模拟手机\"、\"深度搜索\"等。"
+   },
+   "TpopTooManyFiles": {
+      "message": "文件太多无法全部显示。你可以设置最多显示多少个文件。去"
+   },
+   "TpopYTDLdesc": {
+      "message": "如果现在是处于youtube视频播放页面，可以尝试下载youtube视屏。"
+   },
+   "TpopYTDLdlIt": {
+      "message": "尝试下载youtube视频"
+   },
+   "TpopdeepSearch": {
+      "message": "深度搜索"
+   },
+   "TpopdeepSearchOff": {
+      "message": "关闭深度搜索"
+   },
+   "TpopdeepSearch_TT": {
+      "message": "深度搜索非标准媒体文件，极大提高检测概率。"
+   },
+   "TpopemulateCellphone": {
+      "message": "模拟手机"
+   },
+   "TpopemulateCellphone_TT": {
+      "message": "某些网站提供面向移动设备的符合Web标准的媒体文件。"
+   },
+   "TpoprecordScreen": {
+      "message": "屏幕录制"
+   },
+   "TpoprecordScreenOff": {
+      "message": "关闭屏幕录制"
+   },
+   "TpoprecordScreen_TT": {
+      "message": "直接录制屏幕，类似于摄像机捕捉屏幕。"
+   },
+   "TpopupTab1": {
+      "message": "下载列表"
+   },
+   "TpopupTab2": {
+      "message": "专业功能"
+   },
+   "TpopupTab3": {
+      "message": "视频控制"
+   },
+   "TrevSelected": {
+      "message": "反选"
+   },
+   "TryHlsDesc": {
+      "message": "CocoCut将会尝试下载或者录制视频。当前网页视频嗅探不到或下载困难时可以点我试试。"
+   },
+   "TselectAll": {
+      "message": "全选"
+   },
+   "TssCloseRecArea": {
+      "message": "关闭屏幕录制"
+   },
+   "TssDrapRecArea": {
+      "message": "移动录制区域"
+   },
+   "TssNotAllowShare": {
+      "message": "当前页面不支持屏幕共享"
+   },
+   "TssStartRec": {
+      "message": "开始录制"
+   },
+   "TssStartRecord": {
+      "message": "开始录制"
+   },
+   "TssStopRec": {
+      "message": "停止录制"
+   },
+   "TswichtRecMode": {
+      "message": "切换视频下载模式"
+   },
+   "TtempntcInfoCopied": {
+      "message": "复制成功！"
+   },
+   "TtoFaq": {
+      "message": "可以去FAQ看看能否解决问题."
+   },
+   "TtryHls": {
+      "message": "强力下载"
+   },
+   "TtryHlsLabel": {
+      "message": "下载碰到困难了或没找到需要下载的视频？"
+   },
+   "TtryPlay": {
+      "message": "尝试播放"
+   },
+   "TtryRecMode": {
+      "message": "找不到要下载的视频，也许您可以尝试下录制模式？"
+   },
+   "UrlDecode": {
+      "message": "UrlDecode解码"
+   },
+   "WgetText": {
+      "message": "wget格式"
+   },
+   "customNavIEbtns": {
+      "message": "导入/导出设置"
+   },
+   "exportSettingBtn": {
+      "message": "导出到本地文件"
+   },
+   "extDescription": {
+      "message": "Chrome专业视频下载器和音乐下载器,可以在线下载视频、音乐。免费、安全、简单易用。"
+   },
+   "extName": {
+      "message": "视频下载器 - CocoCut"
+   },
+   "importSettingBtn": {
+      "message": "从本地文件导入"
+   },
+   "importSettingsCancelBtn": {
+      "message": "取消"
+   },
+   "importSettingsFilelabel": {
+      "message": "选择一个CocoCut设置文件..."
+   },
+   "importSettingsFilename": {
+      "message": "未选择文件"
+   },
+   "importSettingsOkBtn": {
+      "message": "确定"
+   },
+   "importSettingsWarning": {
+      "message": "注意：这将替换所有当前设置。"
+   },
+   "modalCancelBtn": {
+      "message": "取消"
+   },
+   "modalOkBtn": {
+      "message": "确定"
+   },
+   "popemulateCellphoneOff": {
+      "message": "关闭模拟手机"
+   },
+   "subtitle": {
+      "message": "字幕"
+   },
+   "videoIndexTips": {
+      "message": "未选择可操作的视频"
+   },
+   "videoTabTips": {
+      "message": "未检测到含有视频的网页"
+   }
+}

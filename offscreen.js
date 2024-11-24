@@ -1,0 +1,1 @@
+navigator.serviceWorker.onmessage=function(e){e.ports[0].postMessage(URL.createObjectURL(e.data))};
